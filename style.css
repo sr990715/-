@@ -1,0 +1,1478 @@
+@font-face {
+  font-family: "neurimbo Gothic-Regular";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-01@1.0/neurimboGothicRegular.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+.frame {
+  background-color: #ededed;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #ededed;
+  overflow: hidden;
+  width: 1920px;
+  height: 9874px;
+  position: relative;
+}
+
+.frame .overlap {
+  position: absolute;
+  width: 2363px;
+  height: 764px;
+  top: 1108px;
+  left: -443px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1922px;
+  height: 485px;
+  top: 0;
+  left: 441px;
+  background-color: #2e449326;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 74px;
+  height: 625px;
+  top: 327px;
+  left: 964px;
+  background-color: #2e4493;
+  transform: rotate(90deg);
+}
+
+.frame .text-wrapper {
+  width: 1360px;
+  height: 97px;
+  top: 667px;
+  left: 383px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 100px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .p {
+  width: 1233px;
+  height: 164px;
+  top: 78px;
+  left: 787px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 65px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-2 {
+  width: 2004px;
+  height: 134px;
+  top: 561px;
+  left: 0;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .element {
+  position: absolute;
+  width: 1310px;
+  height: 87px;
+  top: 262px;
+  left: 746px;
+}
+
+.frame .line {
+  position: absolute;
+  width: 1920px;
+  height: 3px;
+  top: 480px;
+  left: 443px;
+}
+
+.frame .overlap-group {
+  position: absolute;
+  width: 2221px;
+  height: 1162px;
+  top: 2193px;
+  left: -42px;
+}
+
+.frame .overlap-2 {
+  position: absolute;
+  width: 2071px;
+  height: 1162px;
+  top: 0;
+  left: 0;
+}
+
+.frame .overlap-3 {
+  position: absolute;
+  width: 438px;
+  height: 217px;
+  top: 81px;
+  left: 1089px;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 54px;
+  height: 371px;
+  top: -158px;
+  left: 158px;
+  background-color: #2e449333;
+  transform: rotate(90deg);
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 90px;
+  height: 371px;
+  top: -13px;
+  left: 141px;
+  background-color: #2e449333;
+  transform: rotate(90deg);
+}
+
+.frame .img {
+  position: absolute;
+  width: 371px;
+  height: 45px;
+  top: 68px;
+  left: 67px;
+}
+
+.frame .rectangle-5 {
+  position: absolute;
+  width: 57px;
+  height: 371px;
+  top: -31px;
+  left: 1580px;
+  background-color: #2e449333;
+  transform: rotate(136.62deg);
+}
+
+.frame .rectangle-6 {
+  position: absolute;
+  width: 57px;
+  height: 371px;
+  top: 44px;
+  left: 1858px;
+  background-color: #2e449333;
+  transform: rotate(109.11deg);
+}
+
+.frame .overlap-4 {
+  position: absolute;
+  width: 2004px;
+  height: 1092px;
+  top: 70px;
+  left: 0;
+}
+
+.frame .rectangle-7 {
+  position: absolute;
+  width: 74px;
+  height: 731px;
+  top: 91px;
+  left: 967px;
+  background-color: #2e4493;
+  transform: rotate(90deg);
+}
+
+.frame .text-wrapper-3 {
+  width: 1360px;
+  height: 203px;
+  top: 437px;
+  left: 322px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 120px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-4 {
+  width: 749px;
+  height: 134px;
+  top: 0;
+  left: 291px;
+  font-family: "YDIYGO330-Regular", Helvetica;
+  color: #524141;
+  font-size: 25px;
+  line-height: 50px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-5 {
+  width: 2004px;
+  height: 134px;
+  top: 379px;
+  left: 0;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .line-2 {
+  position: absolute;
+  width: 1295px;
+  height: 10px;
+  top: 793px;
+  left: 667px;
+}
+
+.frame .text-wrapper-6 {
+  width: 419px;
+  height: 102px;
+  top: 802px;
+  left: 461px;
+  opacity: 0.6;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-7 {
+  width: 419px;
+  height: 102px;
+  top: 802px;
+  left: 1162px;
+  opacity: 0.6;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-8 {
+  width: 419px;
+  height: 42px;
+  top: 873px;
+  left: 460px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .div-2 {
+  width: 1058px;
+  height: 287px;
+  top: 805px;
+  left: 856px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+  line-height: 50px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .span {
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.frame .text-wrapper-9 {
+  font-size: 60px;
+}
+
+.frame .ellipse {
+  top: 774px;
+  left: 642px;
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  background-color: #2e4493;
+  border-radius: 24px;
+}
+
+.frame .ellipse-2 {
+  top: 774px;
+  left: 1348px;
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  background-color: #2e4493;
+  border-radius: 24px;
+}
+
+.frame .rectangle-8 {
+  position: absolute;
+  width: 57px;
+  height: 371px;
+  top: 21px;
+  left: 2007px;
+  background-color: #2e449333;
+  transform: rotate(107.36deg);
+}
+
+.frame .overlap-group-2 {
+  position: absolute;
+  width: 2545px;
+  height: 4917px;
+  top: 4168px;
+  left: -461px;
+}
+
+.frame .rectangle-9 {
+  position: absolute;
+  width: 74px;
+  height: 677px;
+  top: -7px;
+  left: 964px;
+  background-color: #2e4493;
+  transform: rotate(90deg);
+}
+
+.frame .rectangle-10 {
+  position: absolute;
+  width: 74px;
+  height: 668px;
+  top: 4157px;
+  left: 1384px;
+  background-color: #2e4493;
+  transform: rotate(90deg);
+}
+
+.frame .text-wrapper-10 {
+  width: 1360px;
+  height: 203px;
+  top: 313px;
+  left: 445px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 100px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-11 {
+  width: 1360px;
+  height: 203px;
+  top: 619px;
+  left: 677px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 80px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .rectangle-11 {
+  position: absolute;
+  width: 1922px;
+  height: 4126px;
+  top: 214px;
+  left: 460px;
+  background: linear-gradient(
+    180deg,
+    rgba(46.14, 68.06, 147.29, 0.15) 0%,
+    rgba(46, 68, 147, 0.02) 100%
+  );
+}
+
+.frame .text-wrapper-12 {
+  width: 1360px;
+  height: 203px;
+  top: 4471px;
+  left: 741px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 120px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-13 {
+  width: 2004px;
+  height: 134px;
+  top: 253px;
+  left: 0;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-14 {
+  width: 2004px;
+  height: 134px;
+  top: 4413px;
+  left: 419px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-15 {
+  width: 1058px;
+  height: 63px;
+  top: 0;
+  left: 892px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+  line-height: 60px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .rectangle-12 {
+  position: absolute;
+  width: 474px;
+  height: 725px;
+  top: 874px;
+  left: 643px;
+  background-color: #000000;
+}
+
+.frame .rectangle-13 {
+  position: absolute;
+  width: 474px;
+  height: 725px;
+  top: 2580px;
+  left: 643px;
+  background-color: #000000;
+}
+
+.frame .rectangle-14 {
+  position: absolute;
+  width: 474px;
+  height: 725px;
+  top: 1727px;
+  left: 1774px;
+  background-color: #000000;
+}
+
+.frame .rectangle-15 {
+  position: absolute;
+  width: 474px;
+  height: 725px;
+  top: 3444px;
+  left: 1774px;
+  background-color: #000000;
+}
+
+.frame .rectangle-16 {
+  position: absolute;
+  width: 105px;
+  height: 725px;
+  top: 874px;
+  left: 1717px;
+  background-color: #00000026;
+}
+
+.frame .rectangle-17 {
+  position: absolute;
+  width: 105px;
+  height: 725px;
+  top: 2580px;
+  left: 1948px;
+  background-color: #00000026;
+  transform: rotate(15deg);
+}
+
+.frame .rectangle-18 {
+  position: absolute;
+  width: 170px;
+  height: 725px;
+  top: 2612px;
+  left: 2201px;
+  background-color: #2e449326;
+  transform: rotate(30.71deg);
+}
+
+.frame .rectangle-19 {
+  position: absolute;
+  width: 188px;
+  height: 725px;
+  top: 1727px;
+  left: 613px;
+  background-color: #d1d5e0;
+}
+
+.frame .rectangle-20 {
+  position: absolute;
+  width: 98px;
+  height: 681px;
+  top: 3512px;
+  left: 891px;
+  background-color: #2e449326;
+  transform: rotate(90deg);
+}
+
+.frame .rectangle-21 {
+  position: absolute;
+  width: 151px;
+  height: 725px;
+  top: 3334px;
+  left: 768px;
+  background-color: #00000026;
+  transform: rotate(90deg);
+}
+
+.frame .rectangle-22 {
+  position: absolute;
+  width: 91px;
+  height: 725px;
+  top: 1727px;
+  left: 846px;
+  background-color: #00000026;
+}
+
+.frame .rectangle-23 {
+  position: absolute;
+  width: 237px;
+  height: 725px;
+  top: 3688px;
+  left: 682px;
+  background-color: #00000026;
+  transform: rotate(-90deg);
+}
+
+.frame .rectangle-24 {
+  position: absolute;
+  width: 91px;
+  height: 725px;
+  top: 1727px;
+  left: 982px;
+  background-color: #00000026;
+}
+
+.frame .rectangle-25 {
+  position: absolute;
+  width: 105px;
+  height: 725px;
+  top: 874px;
+  left: 2080px;
+  background-color: #00000026;
+}
+
+.frame .rectangle-26 {
+  position: absolute;
+  width: 64px;
+  height: 725px;
+  top: 874px;
+  left: 2210px;
+  background-color: #00000026;
+}
+
+.frame .rectangle-27 {
+  position: absolute;
+  width: 105px;
+  height: 725px;
+  top: 874px;
+  left: 1889px;
+  background-color: #2e449326;
+  transform: rotate(-6.76deg);
+}
+
+.frame .text-wrapper-16 {
+  width: 164px;
+  height: 33px;
+  top: 4794px;
+  left: 642px;
+  font-family: "YDIYGO340-Regular", Helvetica;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-17 {
+  width: 164px;
+  height: 33px;
+  top: 4794px;
+  left: 1430px;
+  font-family: "YDIYGO340-Regular", Helvetica;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-18 {
+  width: 139px;
+  height: 33px;
+  top: 4794px;
+  left: 1824px;
+  font-family: "YDIYGO340-Regular", Helvetica;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-19 {
+  width: 228px;
+  height: 33px;
+  top: 4794px;
+  left: 1036px;
+  font-family: "YDIYGO340-Regular", Helvetica;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .element-x {
+  position: absolute;
+  width: 369px;
+  height: 619px;
+  top: 927px;
+  left: 695px;
+  object-fit: cover;
+}
+
+.frame .element-2 {
+  position: absolute;
+  width: 369px;
+  height: 619px;
+  top: 2633px;
+  left: 695px;
+  object-fit: cover;
+}
+
+.frame .XL {
+  position: absolute;
+  width: 369px;
+  height: 619px;
+  top: 1780px;
+  left: 1826px;
+  object-fit: cover;
+}
+
+.frame .element-3 {
+  position: absolute;
+  width: 369px;
+  height: 619px;
+  top: 3497px;
+  left: 1826px;
+  object-fit: cover;
+}
+
+.frame .rectangle-28 {
+  position: absolute;
+  width: 143px;
+  height: 54px;
+  top: 4785px;
+  left: 652px;
+  background-color: #2e449326;
+}
+
+.frame .rectangle-29 {
+  position: absolute;
+  width: 143px;
+  height: 54px;
+  top: 4785px;
+  left: 1440px;
+  background-color: #2e449326;
+}
+
+.frame .rectangle-30 {
+  position: absolute;
+  width: 114px;
+  height: 54px;
+  top: 4785px;
+  left: 1834px;
+  background-color: #2e449326;
+}
+
+.frame .rectangle-31 {
+  position: absolute;
+  width: 209px;
+  height: 54px;
+  top: 4785px;
+  left: 1046px;
+  background-color: #2e449326;
+}
+
+.frame .text-wrapper-20 {
+  position: absolute;
+  width: 376px;
+  height: 106px;
+  top: 4811px;
+  left: 668px;
+  font-family: "YDIYGO340-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.frame .text-wrapper-21 {
+  width: 376px;
+  height: 106px;
+  top: 4811px;
+  left: 1456px;
+  font-family: "YDIYGO340-Regular", Helvetica;
+  color: #000000;
+  font-size: 20px;
+  line-height: 30px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-22 {
+  width: 376px;
+  height: 106px;
+  top: 4811px;
+  left: 1850px;
+  font-family: "YDIYGO340-Regular", Helvetica;
+  color: #000000;
+  font-size: 20px;
+  line-height: 30px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-23 {
+  width: 376px;
+  height: 106px;
+  top: 4811px;
+  left: 1062px;
+  font-family: "YDIYGO340-Regular", Helvetica;
+  color: #000000;
+  font-size: 20px;
+  line-height: 30px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .rectangle-32 {
+  position: absolute;
+  width: 64px;
+  height: 725px;
+  top: 867px;
+  left: 2381px;
+  background-color: #00000026;
+  transform: rotate(-13.86deg);
+}
+
+.frame .demian {
+  position: absolute;
+  height: 382px;
+  top: 1229px;
+  left: 1140px;
+  font-family: "YDIYGO350-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.frame .text-wrapper-24 {
+  line-height: 90px;
+}
+
+.frame .text-wrapper-25 {
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  font-size: 90px;
+  line-height: 40px;
+}
+
+.frame .text-wrapper-26 {
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.frame .text-wrapper-27 {
+  font-size: 30px;
+  line-height: 60px;
+}
+
+.frame .text-wrapper-28 {
+  text-decoration: underline;
+  font-size: 30px;
+  line-height: 60px;
+}
+
+.frame .text-wrapper-29 {
+  position: absolute;
+  height: 40px;
+  top: 981px;
+  left: 1824px;
+  transform: rotate(82.39deg);
+  font-family: "SF_HambakSnow-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #00000099;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.frame .element-4 {
+  position: absolute;
+  height: 402px;
+  top: 2915px;
+  left: 1145px;
+  font-family: "YDIYGO350-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.frame .text-wrapper-30 {
+  font-family: "SF_HambakSnow-ExtraBold", Helvetica;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 60px;
+}
+
+.frame .text-wrapper-31 {
+  height: 60px;
+  top: 3018px;
+  left: 2019px;
+  transform: rotate(-60deg);
+  font-family: "Gilroy-ExtraBoldItalic-☞", Helvetica;
+  font-style: italic;
+  color: #00000099;
+  font-size: 60px;
+  line-height: 60px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .element-5 {
+  position: absolute;
+  width: 1015px;
+  height: 661px;
+  top: 1937px;
+  left: 734px;
+  font-family: "YDIYGO350-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 50px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.frame .image {
+  position: absolute;
+  width: 43px;
+  height: 637px;
+  top: 1774px;
+  left: 689px;
+}
+
+.frame .cien-anos-de-soledad {
+  position: absolute;
+  height: 402px;
+  top: 3785px;
+  left: 1179px;
+  font-family: "YDIYGO350-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 50px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.frame .text-wrapper-32 {
+  position: absolute;
+  height: 60px;
+  top: 3824px;
+  left: 637px;
+  font-family: "Lora-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #00000099;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-33 {
+  height: 120px;
+  top: 492px;
+  left: 661px;
+  opacity: 0.8;
+  font-family: "YDIYGO330-Regular", Helvetica;
+  color: #000000;
+  font-size: 30px;
+  line-height: 60px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .overlap-5 {
+  position: absolute;
+  width: 1976px;
+  height: 799px;
+  top: 3369px;
+  left: 0;
+}
+
+.frame .ellipse-3 {
+  top: 0;
+  left: 600px;
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  background-color: #2e4493;
+  border-radius: 24px;
+}
+
+.frame .ellipse-4 {
+  top: 0;
+  left: 1392px;
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  background-color: #2e4493;
+  border-radius: 24px;
+}
+
+.frame .line-3 {
+  position: absolute;
+  width: 1920px;
+  height: 10px;
+  top: 19px;
+  left: 0;
+}
+
+.frame .line-4 {
+  position: absolute;
+  width: 1920px;
+  height: 10px;
+  top: 354px;
+  left: 0;
+}
+
+.frame .line-5 {
+  position: absolute;
+  width: 954px;
+  height: 10px;
+  top: 680px;
+  left: 0;
+}
+
+.frame .text-wrapper-34 {
+  width: 419px;
+  height: 102px;
+  top: 36px;
+  left: 414px;
+  opacity: 0.6;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-35 {
+  width: 419px;
+  height: 102px;
+  top: 371px;
+  left: 418px;
+  opacity: 0.6;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-36 {
+  width: 419px;
+  height: 102px;
+  top: 36px;
+  left: 1210px;
+  opacity: 0.6;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-37 {
+  width: 419px;
+  height: 102px;
+  top: 371px;
+  left: 1210px;
+  opacity: 0.6;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-38 {
+  width: 419px;
+  height: 102px;
+  top: 697px;
+  left: 751px;
+  opacity: 0.6;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  line-height: 200px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-39 {
+  width: 1058px;
+  height: 287px;
+  top: 384px;
+  left: 918px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+  line-height: 60px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .div-3 {
+  width: 1058px;
+  height: 287px;
+  top: 40px;
+  left: 96px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+  line-height: 50px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-40 {
+  line-height: 40px;
+}
+
+.frame .text-wrapper-41 {
+  width: 1058px;
+  height: 287px;
+  top: 345px;
+  left: 112px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+  line-height: 40px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .element-6 {
+  width: 1058px;
+  height: 287px;
+  top: 82px;
+  left: 904px;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+  line-height: 60px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.frame .ellipse-5 {
+  top: 335px;
+  left: 600px;
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  background-color: #2e4493;
+  border-radius: 24px;
+}
+
+.frame .ellipse-6 {
+  top: 335px;
+  left: 1392px;
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  background-color: #2e4493;
+  border-radius: 24px;
+}
+
+.frame .ellipse-7 {
+  top: 661px;
+  left: 930px;
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  background-color: #2e4493;
+  border-radius: 24px;
+}
+
+.frame .rectangle-33 {
+  position: absolute;
+  width: 78px;
+  height: 725px;
+  top: 7080px;
+  left: 2128px;
+  background-color: #00000026;
+  transform: rotate(90deg);
+}
+
+.frame .overlap-6 {
+  position: absolute;
+  width: 1944px;
+  height: 975px;
+  top: 133px;
+  left: 0;
+}
+
+.frame .overlap-7 {
+  position: absolute;
+  width: 1920px;
+  height: 975px;
+  top: 0;
+  left: 0;
+}
+
+.frame .div-wrapper {
+  position: absolute;
+  width: 210px;
+  height: 611px;
+  top: 361px;
+  left: 854px;
+  background-color: #d9d9d9;
+}
+
+.frame .text-wrapper-42 {
+  position: absolute;
+  height: 50px;
+  top: 401px;
+  left: -6px;
+  transform: rotate(-90deg);
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  font-weight: 400;
+  color: #0000004c;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.frame .overlap-8 {
+  position: absolute;
+  width: 1360px;
+  height: 972px;
+  top: 0;
+  left: 280px;
+}
+
+.frame .rectangle-34 {
+  position: absolute;
+  width: 210px;
+  height: 611px;
+  top: 344px;
+  left: 892px;
+  background-color: #2e449326;
+  transform: rotate(-15deg);
+}
+
+.frame .img-2 {
+  position: absolute;
+  width: 587px;
+  height: 275px;
+  top: 86px;
+  left: 387px;
+}
+
+.frame .text-wrapper-43 {
+  position: absolute;
+  width: 1360px;
+  height: 203px;
+  top: 0;
+  left: 0;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000cc;
+  font-size: 80px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 200px;
+  white-space: nowrap;
+}
+
+.frame .overlap-9 {
+  position: absolute;
+  width: 569px;
+  height: 640px;
+  top: 332px;
+  left: 252px;
+}
+
+.frame .rectangle-35 {
+  position: absolute;
+  width: 210px;
+  height: 611px;
+  top: 29px;
+  left: 359px;
+  background-color: #d9d9d9;
+}
+
+.frame .rectangle-36 {
+  position: absolute;
+  width: 210px;
+  height: 611px;
+  top: 15px;
+  left: 58px;
+  background-color: #d9d9d9;
+  transform: rotate(11.38deg);
+}
+
+.frame .since {
+  position: absolute;
+  width: 362px;
+  height: 98px;
+  top: 67px;
+  left: 23px;
+  transform: rotate(9.99deg);
+  opacity: 0.4;
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.frame .text-wrapper-44 {
+  font-family: "neurimbo Gothic-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.frame .text-wrapper-45 {
+  font-size: 60px;
+  text-decoration: underline;
+}
+
+.frame .rectangle-37 {
+  position: absolute;
+  width: 210px;
+  height: 611px;
+  top: 361px;
+  left: 1491px;
+  background-color: #d9d9d9;
+}
+
+.frame .line-6 {
+  position: absolute;
+  width: 1920px;
+  height: 3px;
+  top: 972px;
+  left: 0;
+}
+
+.frame .rectangle-38 {
+  position: absolute;
+  width: 210px;
+  height: 611px;
+  top: 361px;
+  left: 1734px;
+  background-color: #d9d9d9;
+}
+
+.frame .rectangle-39 {
+  position: absolute;
+  width: 210px;
+  height: 611px;
+  top: 361px;
+  left: 0;
+  background-color: #2e449326;
+}
+
+.frame .wgcln {
+  position: absolute;
+  width: 291px;
+  height: 198px;
+  top: 9136px;
+  left: 221px;
+  object-fit: cover;
+}
+
+.frame .chxbpw {
+  position: absolute;
+  width: 291px;
+  height: 323px;
+  top: 9139px;
+  left: 618px;
+  object-fit: cover;
+}
+
+.frame .image-2 {
+  position: absolute;
+  width: 291px;
+  height: 113px;
+  top: 9137px;
+  left: 1011px;
+  object-fit: cover;
+}
+
+.frame .uuurwptntiqhrptdejz {
+  position: absolute;
+  width: 401px;
+  height: 179px;
+  top: 9099px;
+  left: 1365px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-46 {
+  width: 1232px;
+  height: 308px;
+  top: 9514px;
+  left: 338px;
+  font-family: "YDIYGO340-Regular", Helvetica;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  line-height: 45px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
